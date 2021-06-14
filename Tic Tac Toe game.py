@@ -16,7 +16,7 @@ def intro():
     print('\nRules:')
     
     print('Player 1 is represented with "X" and PLayer 2 will be represented with an "O"')
-    print('Player 1 will first enter their input for the position of "x"')
+    print('Player 1 will first enter their input for the position of "X"')
     print('To choose the position, please enter the keywords referring to the diagram above. e.g.(to select top left, enter T1)')
 
 def user_input():
