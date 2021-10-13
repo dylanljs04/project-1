@@ -1,4 +1,4 @@
-
+#This program will inverse a 3x3 matrix
 def ask_value(letter):
     while True: 
         value = input(f'{letter} value : ')
